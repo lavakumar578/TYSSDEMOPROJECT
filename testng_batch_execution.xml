@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" preserve-order="false">
+    <classes>
+      <class name="com.vtiger.campaignTest.CreateCampaignWithProductTest"/>
+      <class name="com.vtiger.organizationTest.CreateOraganizationTest"/>
+      <class name="com.vtiger.campaignTest.CreateCampaignTest"/>
+      <class name="com.vtiger.organizationTest.OrganizationWithIndustryAndPressTest"/>
+      <class name="com.LeadModule.TC_51_to_TC_55.TC_51_SearchLeadByClickingOnAnnualRevenueTest"/>
+      <class name="com.LeadModule.TC_51_to_TC_55.TC_52_SearchLeadByClickingOnCreatedTimeTest"/>
+      <class name="com.vtiger.contactsTest.CreateContantWithOrganizationTest"/>
+      <class name="com.LeadModule.TC_51_to_TC_55.TC_53_SearchLeadByClickingOnFaxTest"/>
+      <class name="com.LeadModule.TC_51_to_TC_55.TC_54_SearchLeadByClickingOnLeadNoTest"/>
+      <class name="com.LeadModule.TC_51_to_TC_55.TC_55_SearchLeadByClickingOnLeadSource"/>
+      <class name="com.vtiger.documentTest.CreateDocumentTest"/>
+      <class name="com.vtiger.productTest.CreateProductTest"/>
+      <class name="com.vtiger.contactsTest.CreateContactsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

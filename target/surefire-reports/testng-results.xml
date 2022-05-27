@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="39952" started-at="2022-05-27T02:15:59Z" finished-at="2022-05-27T02:16:39Z">
+    <groups>
+      <group name="sanity">
+        <method signature="CreateDocumentTest.createDocumentTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="createDocumentTest" class="com.vtiger.documentTest.CreateDocumentTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="39952" started-at="2022-05-27T02:15:59Z" finished-at="2022-05-27T02:16:39Z">
+      <class name="com.vtiger.documentTest.CreateDocumentTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="beforeSuite" is-config="true" duration-ms="2179" started-at="2022-05-27T02:15:56Z" finished-at="2022-05-27T02:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClassTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="beforeClassTest" is-config="true" duration-ms="12120" started-at="2022-05-27T02:15:59Z" finished-at="2022-05-27T02:16:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassTest -->
+        <test-method status="PASS" signature="beforeMethodTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="beforeMethodTest" is-config="true" duration-ms="5481" started-at="2022-05-27T02:16:11Z" finished-at="2022-05-27T02:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method status="PASS" signature="createDocumentTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="createDocumentTest" duration-ms="17696" started-at="2022-05-27T02:16:17Z" finished-at="2022-05-27T02:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDocumentTest -->
+        <test-method status="PASS" signature="afterMethodTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="afterMethodTest" is-config="true" duration-ms="2868" started-at="2022-05-27T02:16:35Z" finished-at="2022-05-27T02:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method status="PASS" signature="afterClassTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="afterClassTest" is-config="true" duration-ms="1016" started-at="2022-05-27T02:16:38Z" finished-at="2022-05-27T02:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassTest -->
+        <test-method status="PASS" signature="afterSuiteTest()[pri:0, instance:com.vtiger.documentTest.CreateDocumentTest@7fc6de5b]" name="afterSuiteTest" is-config="true" duration-ms="834" started-at="2022-05-27T02:16:39Z" finished-at="2022-05-27T02:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteTest -->
+      </class> <!-- com.vtiger.documentTest.CreateDocumentTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

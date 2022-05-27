@@ -18,7 +18,7 @@ import com.vtiger.objectRepository.LoginPage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 /**
- * This class is used to get the common annotations
+ * This class  is a Super Most class and is used to get the common annotations
  * @author LAVA KUMAR
  * 
  */

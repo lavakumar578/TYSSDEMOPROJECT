@@ -20,7 +20,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class  is  used to get the common annotations
  * @author LAVA KUMAR
- * Super Most Class yes!
+ * created by lava
+ * it is supermostclass
  */
 public class BaseClass {
 	public LoginPage loginPage;

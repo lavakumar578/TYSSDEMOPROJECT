@@ -41,7 +41,6 @@ public class BaseClass {
 	/**
 	 * This annotation is used to open Excel and Property file
 	 * @throws IOException
-	 * hello
 	 */
 	@BeforeSuite(groups="baseclass")
 	public void beforeSuite() throws IOException

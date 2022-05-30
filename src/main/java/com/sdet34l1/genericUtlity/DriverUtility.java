@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 /**
  * This class is used to maintain all the webdriver common actions
  * @author LAVA KUMAR
- * hello
+
  */
 public class DriverUtility {
 	static JavaLangUtility jlu=new JavaLangUtility();

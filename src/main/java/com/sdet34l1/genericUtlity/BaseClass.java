@@ -20,7 +20,9 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class  is  used to get the common annotations
  * @author LAVA KUMAR
+
  * created by lavakumar
+
  */
 public class BaseClass {
 	public LoginPage loginPage;
@@ -39,7 +41,6 @@ public class BaseClass {
 	/**
 	 * This annotation is used to open Excel and Property file
 	 * @throws IOException
-	 * hi this is lavakumar
 	 */
 	@BeforeSuite(groups="baseclass")
 	public void beforeSuite() throws IOException
@@ -50,7 +51,9 @@ public class BaseClass {
 	/**
 	 * This annotation is used to close the excel file
 	 * @throws IOException
+
 	 * hi this is lavakumar
+
 	 */
 	@AfterSuite(groups="baseclass")
 	public void afterSuiteTest() throws IOException

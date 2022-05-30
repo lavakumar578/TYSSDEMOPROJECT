@@ -31,7 +31,7 @@ public class ListenerImplementation implements ITestListener{
 		report.setSystemInfo("Environment", "Testing Environment");
 		report.setSystemInfo("Reporter Name", "Lava Kumar");
 		report.setSystemInfo("platform", "Windows 10");
-		report.setSystemInfo("Unit Testing Tool", "Testing");
+		report.setSystemInfo("Unit Testing Tool", "TestNG");
 		report.setSystemInfo("Build Management Tool", "Maven");
 		report.setSystemInfo("Automation Tool", "Selenium");
 		

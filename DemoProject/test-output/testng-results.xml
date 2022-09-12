@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-11T12:36:42 IST" name="Suite" finished-at="2022-09-11T12:37:23 IST" duration-ms="41749">
+  <suite started-at="2022-09-12T09:45:58 IST" name="Suite" finished-at="2022-09-12T09:46:24 IST" duration-ms="26193">
     <groups>
     </groups>
-    <test started-at="2022-09-11T12:36:42 IST" name="Test" finished-at="2022-09-11T12:37:23 IST" duration-ms="41749">
+    <test started-at="2022-09-12T09:45:58 IST" name="Test" finished-at="2022-09-12T09:46:24 IST" duration-ms="26193">
       <class name="com.tyss.demo.testScript.CreateNewCustomerTest">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:36:40 IST" name="beforeSuite" finished-at="2022-09-11T12:36:42 IST" duration-ms="1778" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:45:56 IST" name="beforeSuite" finished-at="2022-09-12T09:45:58 IST" duration-ms="2415" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeClassTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:36:42 IST" name="beforeClassTest" finished-at="2022-09-11T12:37:11 IST" duration-ms="28367" status="PASS">
+        <test-method is-config="true" signature="beforeClassTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:45:59 IST" name="beforeClassTest" finished-at="2022-09-12T09:46:12 IST" duration-ms="12874" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClassTest -->
-        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:37:11 IST" name="beforeMethodTest" finished-at="2022-09-11T12:37:11 IST" duration-ms="395" status="PASS">
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:46:12 IST" name="beforeMethodTest" finished-at="2022-09-12T09:46:13 IST" duration-ms="430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodTest -->
-        <test-method signature="createNewCustomerTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:37:11 IST" name="createNewCustomerTest" finished-at="2022-09-11T12:37:21 IST" duration-ms="9567" status="PASS">
+        <test-method signature="createNewCustomerTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:46:13 IST" name="createNewCustomerTest" finished-at="2022-09-12T09:46:21 IST" duration-ms="8258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createNewCustomerTest -->
-        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:37:21 IST" name="afterMethodTest" finished-at="2022-09-11T12:37:23 IST" duration-ms="1919" status="PASS">
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:46:21 IST" name="afterMethodTest" finished-at="2022-09-12T09:46:24 IST" duration-ms="2433" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethodTest -->
-        <test-method is-config="true" signature="afterClassTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:37:23 IST" name="afterClassTest" finished-at="2022-09-11T12:37:23 IST" duration-ms="257" status="PASS">
+        <test-method is-config="true" signature="afterClassTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:46:24 IST" name="afterClassTest" finished-at="2022-09-12T09:46:24 IST" duration-ms="363" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClassTest -->
-        <test-method is-config="true" signature="afterSuiteTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@7d247660]" started-at="2022-09-11T12:37:24 IST" name="afterSuiteTest" finished-at="2022-09-11T12:37:24 IST" duration-ms="360" status="PASS">
+        <test-method is-config="true" signature="afterSuiteTest()[pri:0, instance:com.tyss.demo.testScript.CreateNewCustomerTest@656f62dc]" started-at="2022-09-12T09:46:25 IST" name="afterSuiteTest" finished-at="2022-09-12T09:46:26 IST" duration-ms="285" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuiteTest -->

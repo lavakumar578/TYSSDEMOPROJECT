@@ -11,23 +11,32 @@ import com.tyss.demo.util.DriverUtility;
 
 public class LoginPage{
 	
+	/*usernameTxt*/
 	@FindBy(xpath = "//input[@name='username']")
 	private WebElement usernameTxt;
 	
+	/*passwordTxt*/
 	@FindBy(xpath = "//input[@name='pwd']")
 	private WebElement passwordTxt;
 	
+	
+	/*loginBtn*/
 	@FindBy(xpath = "//div[text()='Login ']")
 	private WebElement loginBtn;
 
 	
 	public LoginPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
-		
-		
+			
 
 	}
 	
+	/**
+	 * This method is used to login
+	 * @author lavakumar
+	 * @param username
+	 * @param password
+	 */
 	
 	public void login(String username,String password) {
 		

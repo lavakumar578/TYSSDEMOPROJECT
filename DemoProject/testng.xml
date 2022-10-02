@@ -8,5 +8,5 @@
     <classes>
       <class name="com.tyss.demo.testScript.CreateNewCustomerTest"/>
     </classes>
-  </test> <!-- Test -->
+      </test> <!-- Test -->
 </suite> <!-- Suite -->

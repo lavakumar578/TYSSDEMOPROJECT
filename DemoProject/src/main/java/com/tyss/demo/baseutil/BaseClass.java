@@ -18,10 +18,10 @@ import org.testng.annotations.Parameters;
 
 import com.tyss.demo.pages.*;
 import com.tyss.demo.util.DriverUtility;
-import com.tyss.demo.util.ILocation;
+import com.tyss.demo.data.ILocation;
 import com.tyss.demo.util.JavaLangUtility;
-import com.tyss.demo.util.PropertiesUtility;
-import com.tyss.demo.util.XlsxUtility;
+import com.tyss.demo.data.PropertiesUtility;
+import com.tyss.demo.data.XlsxUtility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 /**

@@ -12,7 +12,7 @@ import com.tyss.demo.baseutil.BaseClass;
 import com.tyss.demo.pages.HomePage;
 import com.tyss.demo.pages.LoginPage;
 import com.tyss.demo.pages.TaskListPage;
-import com.tyss.demo.util.XlsxUtility;
+import com.tyss.demo.data.XlsxUtility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 

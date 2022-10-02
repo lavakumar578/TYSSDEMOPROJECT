@@ -1,5 +1,7 @@
 package com.tyss.demo.listeners;
 
+import java.awt.Desktop;
+import java.io.File;
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
@@ -24,9 +26,15 @@ public class ListenerImplementation implements ITestListener{
 	public void onStart(ITestContext context) {
 		System.out.println("onStart"+Thread.currentThread().getId());
 		ExtentSparkReporter spark=new ExtentSparkReporter("./src/main/java/com/tyss/demo/reports/extentReport.html");
+		
 		spark.config().setDocumentTitle("DocumentTitle");
 		spark.config().setTheme(Theme.STANDARD);
-		spark.config().setReportName("ReportName");
+		try {
+			spark.loadXMLConfig(new File("extentconfig.xml"));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 		report=new ExtentReports();
 		report.attachReporter(spark);
@@ -87,6 +95,7 @@ public class ListenerImplementation implements ITestListener{
 	public void onFinish(ITestContext context) {
 		System.out.println("onFinish");
 		report.flush();
+		
 		
 	}
 

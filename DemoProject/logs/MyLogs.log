@@ -259,3 +259,21 @@
 [INFO ] 2022-09-23 11:01:31.660 [main] BaseClass -  signed out 
 [INFO ] 2022-09-23 11:01:32.030 [main] BaseClass -  browser is closed 
 [INFO ] 2022-09-23 11:01:33.063 [main] BaseClass -  excel closed 
+[INFO ] 2022-10-03 14:40:09.374 [main] BaseClass -  excel is opened 
+[INFO ] 2022-10-03 14:40:12.417 [main] BaseClass -  browser launched 
+[INFO ] 2022-10-03 14:40:24.198 [main] BaseClass - admin username manager password
+[INFO ] 2022-10-03 14:40:24.198 [main] BaseClass -  login page is displayed
+[INFO ] 2022-10-03 14:40:32.119 [main] BaseClass - Task page is displayed
+[INFO ] 2022-10-03 14:40:33.696 [main] BaseClass - LAVA738 customer has been created
+[INFO ] 2022-10-03 14:40:35.746 [main] BaseClass -  signed out 
+[INFO ] 2022-10-03 14:40:36.264 [main] BaseClass -  browser is closed 
+[INFO ] 2022-10-03 14:40:36.808 [main] BaseClass -  excel closed 
+[INFO ] 2022-10-03 14:42:11.259 [main] BaseClass -  excel is opened 
+[INFO ] 2022-10-03 14:42:14.666 [main] BaseClass -  browser launched 
+[INFO ] 2022-10-03 14:42:24.038 [main] BaseClass - admin username manager password
+[INFO ] 2022-10-03 14:42:24.038 [main] BaseClass -  login page is displayed
+[INFO ] 2022-10-03 14:42:31.330 [main] BaseClass - Task page is displayed
+[INFO ] 2022-10-03 14:42:33.345 [main] BaseClass - LAVA305 customer has been created
+[INFO ] 2022-10-03 14:42:34.921 [main] BaseClass -  signed out 
+[INFO ] 2022-10-03 14:42:35.509 [main] BaseClass -  browser is closed 
+[INFO ] 2022-10-03 14:42:36.422 [main] BaseClass -  excel closed 
